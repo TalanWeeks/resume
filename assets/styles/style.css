@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(249, 252, 252);
+}
+
+.header-title{
+    text-align: center;
+    color: aliceblue;
+    background-color: blue;
+    font-size: 30px;
+}
+
+.header-title h1{
+    display: inline-block;
+}
+
+.body-title{
+    text-align: center;
+    font-size: 25px;
+    border-top: 1rem solid blue;
+    margin-top: 3rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+.information-area{
+    display: flex;
+}
+
+.footer{
+    background-color: blue;
+    height: 8rem;
+}
+
+.img{
+    height: 10rem;    
+}
+
+.left-side{
+    margin-left: 10rem;
+    font-size: 19px;
+}
+
+.right-side{
+    margin-left: 6rem;
+    margin-right: 4rem;
+
+}
+
+.info-header-spacer{
+    background-color: rgb(121, 121, 245);
+    text-align: center;
+    color: rgb(121, 121, 245);
+    margin-left: 15rem;
+    margin-right: 15rem;
+    
+}
